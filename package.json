@@ -1,12 +1,13 @@
 {
-  "name": "captcha",
-  "version": "0.1.0",
+  "name": "@wzhone/captcha",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "vue": "^3.0.0",
     "vue-class-component": "^8.0.0-0"
   },
